@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## v1.0.7.4
+
+  * Stable release with fixed API
+  * Only soft-deprecations going forward
+  * Essentially identical to v0.7.4
+
 ## v0.7.4 (2026-08-26)
 
   * [`put_params`]: Allow explicit duplicates.
